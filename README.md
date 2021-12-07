@@ -22,7 +22,7 @@
         - Gradient Boosted Tree
         - Logistic-Random Oversampling
         - Logistic-Synthetic Minority Over-sampling Technique
-        - Logistic-Cluster centroid Undersampling
+        - Logistic-Cluster Centroid Undersampling
         - Balanced Random Forest Classifier
         - Easy Ensemble Ada Boost Classifier
     - Results
